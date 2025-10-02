@@ -16,6 +16,14 @@ interface ScrollRevealProps {
 
 const Project: React.FC = () => {
   const projectData: ProjectData[] = [
+      {
+      image: "https://i.imgur.com/l8LahrF.png",
+      title: "ONE IDENTITY ",
+      description:
+        " solusi perangkat lunak yang menyediakan layanan manajemen identitas dan akses (IAM) untuk menyederhanakan dan mengamankan identitas digital organisasi, termasuk tata kelola identitas (IGA), manajemen akses (AM), dan manajemen akses istimewa (PAM)",
+      technologies: ["Active Directory", "IGA"],
+      link: "#", // Ganti dengan link aslimu
+    },
     {
       image: "https://i.imgur.com/iWqkmYh.png",
       title: "Pub Tes Potensi Akademik",

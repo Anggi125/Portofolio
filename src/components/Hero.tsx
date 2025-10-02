@@ -11,7 +11,7 @@ const Hero = () => {
         >
 <div className="w-[300px] h-[300px] rounded-full overflow-hidden shadow-2xl shadow-indigo-600">
   <img
-    src="https://imgur.com/S7YKqZA.jpg"
+    src="https://i.imgur.com/gAl6ttU.jpg"
     alt=""
     className="w-full h-full object-cover object-center"
   />
